@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Masters and Slaves.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Main.c
+D:\Projects\DB-and-IS-Lab1\Store.h(138,25): warning C4013: checkFileExistence: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Projects\DB-and-IS-Lab1\Store.h(145,26): warning C4013: checkIndexExistence: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Projects\DB-and-IS-Lab1\Store.h(153,27): warning C4013: checkRecordExistence: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Projects\DB-and-IS-Lab1\Store.h(244,15): warning C4013: deleteSlave: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Projects\DB-and-IS-Lab1\Checks.h(25,57): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Projects\DB-and-IS-Lab1\Input.h(10,6): warning C4101: status: неиспользованная локальная переменная
+D:\Projects\DB-and-IS-Lab1\Input.h(22,6): warning C4101: x: неиспользованная локальная переменная
+D:\Projects\DB-and-IS-Lab1\Main.c(104,29): warning C4020: updateSlave: слишком много фактических параметров
+D:\Projects\DB-and-IS-Lab1\Game.h(235): warning C4716: deleteSlave: должна возвращать значение
+  Masters and Slaves.vcxproj -> D:\Projects\DB-and-IS-Lab1\Debug\Games shop.exe

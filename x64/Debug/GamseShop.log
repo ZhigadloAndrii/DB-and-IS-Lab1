@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Cinemas shop.vcxproj, Games shop.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.c
+C:\Users\HP\Downloads\Telegram Desktop\DB-and-IS-Lab1\Store.h(138,25): warning C4013: 'checkFileExistence' undefined; assuming extern returning int
+C:\Users\HP\Downloads\Telegram Desktop\DB-and-IS-Lab1\Store.h(145,26): warning C4013: 'checkIndexExistence' undefined; assuming extern returning int
+C:\Users\HP\Downloads\Telegram Desktop\DB-and-IS-Lab1\Store.h(153,27): warning C4013: 'checkRecordExistence' undefined; assuming extern returning int
+C:\Users\HP\Downloads\Telegram Desktop\DB-and-IS-Lab1\Store.h(244,15): warning C4013: 'deleteSlave' undefined; assuming extern returning int
+C:\Users\HP\Downloads\Telegram Desktop\DB-and-IS-Lab1\Input.h(10,6): warning C4101: 'status': unreferenced local variable
+C:\Users\HP\Downloads\Telegram Desktop\DB-and-IS-Lab1\Input.h(22,6): warning C4101: 'x': unreferenced local variable
+C:\Users\HP\Downloads\Telegram Desktop\DB-and-IS-Lab1\Main.c(104,29): warning C4020: 'updateSlave': too many actual parameters
+C:\Users\HP\Downloads\Telegram Desktop\DB-and-IS-Lab1\Book.h(235): warning C4716: 'deleteSlave': must return a value
+  GamseShop.vcxproj -> C:\Users\HP\Downloads\Telegram Desktop\DB-and-IS-Lab1\x64\Debug\Books shop.exe
